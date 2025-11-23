@@ -1,1 +1,2 @@
-
+This dataset links laboratory measurements of red wine with human tasting judgments and actual wine-food pairing records. It combines physicochemical variables (acidity, residual sugar, sulphates, alcohol, pH, sulfur compounds, density, etc.) 
+with expert quality scores and curated pairing data (wine category, food item/cuisine, numeric pairing score, text label, and short description).
