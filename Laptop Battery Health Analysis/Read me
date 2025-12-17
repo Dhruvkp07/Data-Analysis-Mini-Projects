@@ -1,1 +1,4 @@
+About Dataset
+This dataset provides insights into laptop battery health and real-world usage behavior across multiple brands, operating systems, and user types. It captures how factors such as daily usage hours, charging cycles, charge limits, battery age, and overheating issues influence overall battery health and system performance.
 
+The dataset is designed to help learners and analysts explore battery degradation trends, compare usage patterns across different user categories (students, office users, programmers, gamers, creatives), and build data visualization, regression, or classification models.
