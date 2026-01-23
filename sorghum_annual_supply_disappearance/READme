@@ -1,4 +1,8 @@
 About Dataset
-This dataset provides a comprehensive, refined view of the USDA Sorghum Supply and Disappearance metrics spanning over five decades. Sourced directly from the USDA Economic Research Service (ERS), the data has been meticulously cleaned and organized to serve both seasoned agricultural economists and beginner data analysts.
 
-Sorghum is a critical global crop for food, feed, and industrial use. This dataset tracks key indicators like Beginning Stocks, Production, Imports, Domestic Use, and Exports, allowing for deep time-series analysis of agricultural trends in the United States.
+This dataset provides a comprehensive, refined view of the USDA Sorghum Supply and Disappearance metrics spanning over five decades.
+Sourced directly from the USDA Economic Research Service (ERS), 
+the data has been meticulously cleaned and organized to serve both seasoned agricultural economists and beginner data analysts.
+Sorghum is a critical global crop for food, feed, and industrial use.
+This dataset tracks key indicators like Beginning Stocks, Production, Imports, Domestic Use, and Exports, 
+allowing for deep time-series analysis of agricultural trends in the United States.
